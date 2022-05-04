@@ -1,4 +1,5 @@
-- 🌱 最近在学习Nodejs
+- 🌱 最近在学习Nodejs和富文本编辑器(slatejs)相关的知识
+- 📫 如果有事找我, 可以在👉"[留言板](https://github.com/Mirrorgo/async-chat/issues/1)"下留言
 <!--
 **Mirrorgo/mirrorgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
